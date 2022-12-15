@@ -7,16 +7,19 @@ Me chamo `Antônio Paz` e atuo como <b>Desenvolvedor Full Stack</b> // <b>Design
 <i>Projetos de destaque:</i>
 
 + Marketplace para receber e tratar pedidos de restaurantes:
-https://github.com/AntonioDjou/Marketplace-Integrator-Orangi-
+<br>https://github.com/AntonioDjou/Marketplace-Integrator-Orangi-</br>
 
 + Projeto para ajudar crianças a escrever em letra cursiva:
-https://github.com/AntonioDjou/AppMelhoriaEscrita
+<br>https://github.com/AntonioDjou/AppMelhoriaEscrita
 
 + App de carteira digital de criptomoedas lançado na Playstore:
 <Asfjashfjkdf>
 
 + Jogo de Loteria em cripto com High/Low:
 <br>https://simmer.io/@AntonioPaz/tickettron-beta3</br>
+
++ Mão Robótica:
+<br>https://github.com/AntonioDjou/robotic-hand</br>
 
 <h3 align="left">📫 Contato:</h3>
 <p align="left">
