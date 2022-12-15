@@ -1,4 +1,4 @@
-### Olá, seja bem vindo(a)! 👋 [English description below!]
+### Olá, seja bem vindo(a)! 👋 [🏴 <i>English description below!</i>]
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/z9Sd7xqSv9TA6JL7Pj/giphy.gif?cid=790b761195ad551b691e0c8a60d0bbfdda32d2eba8025afa&rid=giphy.gif&ct=g">
 
@@ -24,10 +24,9 @@ https://github.com/AntonioDjou/AppMelhoriaEscrita
 <br>email: <i>antoniopaz1987@gmail.com</i></br>
 <a href="https://www.linkedin.com/in/ant%C3%B4nio-paz-rodrigues-j%C3%BAnior-7b925110b/details/experience/" <a> LinkedIn: </a><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a> 
 
-</p>
+</p><h4>[ 🇺🇲 <i>English Version</i>]</h4>
 
-## {English Version}
-### Hi there 👋
+### Hi there 👋 
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
