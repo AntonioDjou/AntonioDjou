@@ -16,7 +16,7 @@ Me chamo `Antônio Paz` e atuo como <b>Desenvolvedor Full Stack</b> // <b>Design
 <br>https://github.com/AntonioDjou/TicketTron</br>
 
 + App de carteira digital de criptomoedas lançado na Playstore:
-<Asfjashfjkdf>
+<br>https://github.com/AntonioDjou/Definance-Wallet</br>
 
 + Mão Robótica:
 <br>https://github.com/AntonioDjou/robotic-hand</br>
