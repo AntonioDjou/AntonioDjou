@@ -12,11 +12,11 @@ Me chamo `Antônio Paz` e atuo como <b>Desenvolvedor Full Stack</b> // <b>Design
 + Projeto para ajudar crianças a escrever em letra cursiva:
 <br>https://github.com/AntonioDjou/AppMelhoriaEscrita
 
++ Jogo de Loteria em cripto com High/Low:
+<br>https://github.com/AntonioDjou/TicketTron</br>
+
 + App de carteira digital de criptomoedas lançado na Playstore:
 <Asfjashfjkdf>
-
-+ Jogo de Loteria em cripto com High/Low:
-<br>https://simmer.io/@AntonioPaz/tickettron-beta3</br>
 
 + Mão Robótica:
 <br>https://github.com/AntonioDjou/robotic-hand</br>
