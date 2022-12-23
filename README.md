@@ -27,8 +27,9 @@ Me chamo `Antônio Paz` e atuo como <b>Desenvolvedor Full Stack</b> // <b>Design
 <h3 align="left">📫 Contato:</h3>
 <p align="left">
 <a>Whatsapp / Telegram: <i>+55 (85) 98549-6894</i></a>
+<br>Indeed: https://my.indeed.com/p/antnioj-ygn2j55</br>
+LinkedIn: https://www.linkedin.com/in/Antonio-Paz-Dev/ 
 <br>email: <i>antoniopaz1987@gmail.com</i></br>
-<a href="https://www.linkedin.com/in/Antonio-Paz-Dev/" <a> LinkedIn: </a><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a> 
 
 </p><h4>[ 🇺🇲 <i>English Version</i>]</h4>
 
@@ -60,7 +61,8 @@ My name is `Antônio Paz` and I am a <b>Full Stack Developer</b> // <b>Game Desi
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
 <a>Whatsapp / Telegram: <i>+55 (85) 98549-6894</i></a>
+<br>Indeed: https://my.indeed.com/p/antnioj-ygn2j55</br>
+LinkedIn: https://www.linkedin.com/in/Antonio-Paz-Dev/
 <br>email: <i>antoniopaz1987@gmail.com</i></br>
-<a href="https://www.linkedin.com/in/Antonio-Paz-Dev/" <a> LinkedIn: </a><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a> 
 
 </p>
