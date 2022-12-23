@@ -4,19 +4,18 @@ Me chamo `Antônio Paz` e atuo como <b>Desenvolvedor Full Stack</b> // <b>Design
 
 <i>Projetos de destaque:</i>
 
++ App de carteira digital de criptomoedas lançado na Playstore:
+<br>https://github.com/AntonioDjou/Definance-Wallet</br>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/yhA6mKFzgit8HzSaeb/giphy-downsized-large.gif">
+
 + Marketplace para receber e tratar pedidos de restaurantes:
 <br>https://github.com/AntonioDjou/Marketplace-Integrator-Orangi-</br>
 
 + Projeto para ajudar crianças a escrever em letra cursiva:
 <br>https://github.com/AntonioDjou/AppMelhoriaEscrita
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/yhA6mKFzgit8HzSaeb/giphy-downsized-large.gif">
-
 + Jogo de Loteria em cripto com High/Low:
 <br>https://github.com/AntonioDjou/TicketTron</br>
-
-+ App de carteira digital de criptomoedas lançado na Playstore:
-<br>https://github.com/AntonioDjou/Definance-Wallet</br>
 
 + Mão Robótica:
 <br>https://github.com/AntonioDjou/robotic-hand</br>
@@ -38,11 +37,10 @@ My name is `Antônio Paz` and I am a <b>Full Stack Developer</b> // <b>Game Desi
 
 + Marketplace to receive and handle restaurant orders:
 <br>https://github.com/AntonioDjou/Marketplace-Integrator-Orangi-</br>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/yhA6mKFzgit8HzSaeb/giphy-downsized-large.gif">
 
 + Project to help children writing:
 <br>https://github.com/AntonioDjou/AppMelhoriaEscrita
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/yhA6mKFzgit8HzSaeb/giphy-downsized-large.gif">
 
 + Lottery crypto game with High/Low betting:
 <br>https://github.com/AntonioDjou/TicketTron</br>
