@@ -35,8 +35,8 @@ My name is `Antônio Paz` and I am a <b>Full Stack Developer</b> // <b>Game Desi
 
 <i>Highlighted Projects:</i>
 
-+ Marketplace to receive and handle restaurant orders:
-<br>https://github.com/AntonioDjou/Marketplace-Integrator-Orangi-</br>
++ Digital Wallet App of cryptocoins released on Playstore:
+<br>https://github.com/AntonioDjou/Definance-Wallet</br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/yhA6mKFzgit8HzSaeb/giphy-downsized-large.gif">
 
 + Project to help children writing:
@@ -45,8 +45,8 @@ My name is `Antônio Paz` and I am a <b>Full Stack Developer</b> // <b>Game Desi
 + Lottery crypto game with High/Low betting:
 <br>https://github.com/AntonioDjou/TicketTron</br>
 
-+ Digital Wallet App of cryptocoins released on Playstore:
-<br>https://github.com/AntonioDjou/Definance-Wallet</br>
++ Marketplace to receive and handle restaurant orders:
+<br>https://github.com/AntonioDjou/Marketplace-Integrator-Orangi-</br>
 
 + Robotic Hand:
 <br>https://github.com/AntonioDjou/robotic-hand</br>
