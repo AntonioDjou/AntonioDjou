@@ -14,7 +14,7 @@ https://github.com/AntonioDjou/Unity
 + Marketplace para receber e tratar pedidos de restaurantes:
 <br>https://github.com/AntonioDjou/Marketplace-Integrator-Orangi-</br>
 
-+ Projeto para ajudar crianças a escrever em letra cursiva:
++ Projeto Educacional para ajudar crianças a escrever:
 <br>https://github.com/AntonioDjou/AppMelhoriaEscrita
 
 + Jogo de Loteria em cripto com High/Low:
@@ -45,7 +45,7 @@ My name is `Antônio Paz` and I am a <b>Full Stack Developer</b> // <b>Game Desi
 + GameDev Portfolio:
 https://github.com/AntonioDjou/Unity
 
-+ Project to help children writing:
++ Educational project to help children writing:
 <br>https://github.com/AntonioDjou/AppMelhoriaEscrita
 
 + Lottery crypto game with High/Low betting:
