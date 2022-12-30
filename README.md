@@ -8,7 +8,7 @@ Me chamo `Antônio Paz` e atuo como <b>Desenvolvedor Full Stack</b> // <b>Design
 <br>https://github.com/AntonioDjou/Definance-Wallet</br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/yhA6mKFzgit8HzSaeb/giphy-downsized-large.gif">
 
-+ Portfólio de GameDev:
++ <b><i>Portfólio de GameDev:</i></b>
 https://github.com/AntonioDjou/Unity
 
 + Marketplace para receber e tratar pedidos de restaurantes:
@@ -42,7 +42,7 @@ My name is `Antônio Paz` and I am a <b>Full Stack Developer</b> // <b>Game Desi
 <br>https://github.com/AntonioDjou/Definance-Wallet</br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/yhA6mKFzgit8HzSaeb/giphy-downsized-large.gif">
 
-+ GameDev Portfolio:
++ <b><i>GameDev Portfolio</i></b>:
 https://github.com/AntonioDjou/Unity
 
 + Educational project to help children writing:
