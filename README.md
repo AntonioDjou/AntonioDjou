@@ -8,7 +8,7 @@ Me chamo `Antônio Paz` e atuo como <b>Desenvolvedor Full Stack</b> // <b>Design
 <br>https://github.com/AntonioDjou/Definance-Wallet</br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/yhA6mKFzgit8HzSaeb/giphy-downsized-large.gif">
 
-+ <b><i>Portfólio de GameDev:</i></b>
++ <b><i>`Portfólio de GameDev:`</i></b>
 https://github.com/AntonioDjou/Unity
 
 + Marketplace para receber e tratar pedidos de restaurantes:
@@ -42,17 +42,17 @@ My name is `Antônio Paz` and I am a <b>Full Stack Developer</b> // <b>Game Desi
 <br>https://github.com/AntonioDjou/Definance-Wallet</br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/yhA6mKFzgit8HzSaeb/giphy-downsized-large.gif">
 
-+ <b><i>GameDev Portfolio</i></b>:
++ <b><i>`GameDev Portfolio:`</i></b>
 https://github.com/AntonioDjou/Unity
+
++ Marketplace to receive and handle restaurant orders:
+<br>https://github.com/AntonioDjou/Marketplace-Integrator-Orangi-</br>
 
 + Educational project to help children writing:
 <br>https://github.com/AntonioDjou/AppMelhoriaEscrita
 
 + Lottery crypto game with High/Low betting:
 <br>https://github.com/AntonioDjou/TicketTron</br>
-
-+ Marketplace to receive and handle restaurant orders:
-<br>https://github.com/AntonioDjou/Marketplace-Integrator-Orangi-</br>
 
 + Robotic Hand:
 <br>https://github.com/AntonioDjou/robotic-hand</br>
