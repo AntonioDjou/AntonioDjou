@@ -8,14 +8,17 @@ Me chamo `Antônio Paz` e atuo como <b>Desenvolvedor Full Stack</b> // <b>Design
 <br>https://github.com/AntonioDjou/Definance-Wallet</br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/yhA6mKFzgit8HzSaeb/giphy-downsized-large.gif">
 
-+ <b><i>`Portfólio de GameDev:`</i></b>
++ <b><i>`GameDev Portfolio:`</i></b>
 https://github.com/AntonioDjou/Unity
 
-+ Marketplace para receber e tratar pedidos de restaurantes:
++ Marketplace para receber e tratar pedidos de restaurantes :
 <br>https://github.com/AntonioDjou/Marketplace-Integrator-Orangi-</br>
 
 + Projeto Educacional para ajudar crianças a escrever:
 <br>https://github.com/AntonioDjou/AppMelhoriaEscrita
+
++ <b><i>`Game Designer Portfolio:`</i></b>
+https://github.com/AntonioDjou/Game-Designer
 
 + Jogo de Loteria em cripto com High/Low:
 <br>https://github.com/AntonioDjou/TicketTron</br>
@@ -47,6 +50,9 @@ https://github.com/AntonioDjou/Unity
 
 + Marketplace to receive and handle restaurant orders:
 <br>https://github.com/AntonioDjou/Marketplace-Integrator-Orangi-</br>
+
++ <b><i>`Game Designer Portfolio:`</i></b>
+https://github.com/AntonioDjou/Game-Designer
 
 + Educational project to help children writing:
 <br>https://github.com/AntonioDjou/AppMelhoriaEscrita
