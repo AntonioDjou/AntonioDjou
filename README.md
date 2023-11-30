@@ -41,7 +41,7 @@ My name is `Antônio Paz` and I am a <b>Full Stack Developer</b> // <b>Game Desi
 
 <i>Highlighted Projects:</i>
 
-+ Digital Wallet App of cryptocoins released on Playstore:
++ Digital Wallet App of cryptocoins released on Play Store and App Store:
 <br>https://github.com/AntonioDjou/Definance-Wallet</br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/yhA6mKFzgit8HzSaeb/giphy-downsized-large.gif">
 
