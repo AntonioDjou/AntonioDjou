@@ -4,7 +4,7 @@ Me chamo `Antônio Paz` e atuo como <b>Desenvolvedor Full Stack</b> // <b>Design
 
 <i>Projetos de destaque:</i>
 
-+ App de carteira digital de criptomoedas lançado na Playstore:
++ App de carteira digital de criptomoedas lançado na Play Store e App Store:
 <br>https://github.com/AntonioDjou/Definance-Wallet</br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/yhA6mKFzgit8HzSaeb/giphy-downsized-large.gif">
 
